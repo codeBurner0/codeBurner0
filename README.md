@@ -78,7 +78,7 @@
 
 <div align = "center">
   
-![][snake] <br> ![][graph]
+![snake gif](https://github.com/codeburner0/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) <br> ![][graph]
 
 </div>
 
@@ -95,5 +95,4 @@
  
  <!----------------------------------{ contribution stats }--------------------------------->
 
-[snake]: https://github.com/Khushal-ag/Khushal-ag/blob/output/snake.svg
 [graph]: https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true
