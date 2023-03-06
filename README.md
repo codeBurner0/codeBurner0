@@ -33,6 +33,7 @@
  
 
 ## 📝 Editors/IDEs Used:
+
   <div align="center">
 <div style="display: flex; align-items: flex-start;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="icon"  />
@@ -81,16 +82,17 @@
 </div>
 
  ## 📰 Thought Of The Day
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="900px" height="200px">
- </div>
+ <div align="center">
+<div style="display: flex; align-items: flex-start;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="900px" >
+</div> </div>
  
 
- <div align="center">
-  
- </div>
- 
-<h2 align="center">
+  <div align="center">
+<div style="display: flex; align-items: flex-start;">
+<h1>⚡ Thanks! For Visiting ⚡</h1>
+</div> </div>
+
 <p align="center"><img width="150%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
 
