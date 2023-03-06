@@ -69,21 +69,27 @@
 | :------------: | :----------: |
 |   ![][stats]   | ![][streaks] |
 
-## 📰 Top Languages
-
-![][langs]  &nbsp;&nbsp;&nbsp;&nbsp;   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 ## 💹 Contribution Graph:
 
 
 <div align = "center">
   
- ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/github-contribution-grid-snake.gif)<br> ![][graph]
+ ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/github-contribution-grid-snake.gif)<br> 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" >
 
 </div>
 
-<img height="80" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ ## 📰 Thought Of The Day
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="900px" height="200px">
+ </div>
+ 
+
+ <div align="center">
+  
+ </div>
+ 
 <h2 align="center">
 <p align="center"><img width="150%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
 </p>
@@ -91,9 +97,11 @@
 <!----------------------------------{ reference links }--------------------------------->
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+[langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=dark&hide_border=false#gh-light-mode-only
  
  <!----------------------------------{ contribution stats }--------------------------------->
 
-[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true
+
+ 
+
