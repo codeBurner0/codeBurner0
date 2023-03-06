@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/1e82b33c266d7ff3d562788e277716df0a35cbba/Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)](https://codeBurner0.io)
 <h1 align="center">Hi 👋, I'm Ankit Anand</h1>
-<h3 align="center">A passionate Coder from India.</h3>
+<h3 align="center">A passionate Coder from India.</h3><BR>
 <img align="right" alt="Coding" width="400px" height="250px" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeburner0&label=Profile%20views&color=0e75b6&style=flat" alt="codeburner0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+ 
 - 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
 - ⚡ Fun fact **I think I am funny.**
