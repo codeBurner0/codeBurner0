@@ -79,14 +79,19 @@
 
 
 ## 💹 Contribution Graph:
+<div align = "center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" >
 
-
+ </div>
+<br>
 <div align = "center">
   
  ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/github-contribution-grid-snake.gif)<br> 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" >
-
 </div>
+
+ 
+ 
+
 
  ## 📰 Thought Of The Day
  <div align="center">
