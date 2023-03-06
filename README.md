@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://codeBurner0.io)
+[![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/1e82b33c266d7ff3d562788e277716df0a35cbba/Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)](https://codeBurner0.io)
 <h1 align="center">Hi 👋, I'm Ankit Anand</h1>
 <h3 align="center">A passionate Coder from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
