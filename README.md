@@ -76,9 +76,10 @@
 
 ## 💹 Contribution Graph:
 
+
 <div align = "center">
   
-![snake gif](https://github.com/codeburner0/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif) <br> ![][graph]
+ ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/github-contribution-grid-snake.gif)<br> ![][graph]
 
 </div>
 
