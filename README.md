@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif))](https://codeBurner0.io)
+![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Ankit Anand</h1>
 <h3 align="center">A passionate Coder from India.</h3><BR>
 <img align="right" alt="Coding" width="400px" src="https://github.com/codeBurner0/codeBurner0/blob/main/66833e07d6fb9eb5d724e47d0c814285.gif">
