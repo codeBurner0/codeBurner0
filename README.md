@@ -65,9 +65,8 @@
 ## 🏆GitHub Trophies:
   <div align="center">
 <div style="display: flex; align-items: flex-start;">
-<img src="https://github-trophies.vercel.app/?username=codeburner0&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+<img src="https://github-profile-trophy.vercel.app/?username=codeburner0&theme=onedark">
 </div> </div>
-  
   
     
     
