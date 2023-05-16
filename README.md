@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently Focusing on  **MERN Stack**
 - 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-anand-437187215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-anand-437187215/" height="30" width="40" /></a>
