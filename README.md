@@ -85,7 +85,7 @@
 <br>
 <div align = "center">
   
- ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/github-contribution-grid-snake.gif)<br> 
+ ![snake gif](https://github.com/codeburner0/codeburner0/blob/output/snake.svg)<br> 
 </div>
 
  
