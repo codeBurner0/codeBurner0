@@ -110,11 +110,9 @@
 
 ## ⚡Enjoy jokes :)
 <p align="center">
-    <img align = "left" width="35%" src="https://readme-jokes.vercel.app/api"/>
+    <img align = "left" width="auto" src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
 </p>
-</br>
-</br>
 </br>
 
 
