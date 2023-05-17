@@ -113,9 +113,6 @@
     <img align = "left" width="auto" src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
 </p>
-</br>
-
-
   <div align="center">
 <div style="display: flex; align-items: flex-start;">
 <h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Thanks! For Visiting <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"></h1>
