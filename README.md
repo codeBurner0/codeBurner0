@@ -1,11 +1,26 @@
 ![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif)
- <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> , I’m Ankit Anand </h1>
-<h3 align="center">A passionate Coder from India.</h3><BR>
+ <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand </h1>
+<h3 align="center">
+  
+  
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=A+Passionate+Coder+From+India+✌;Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" />
+  
+  
+ </h3>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <img align="right" alt="Coding" width="400px" src="https://github.com/codeBurner0/codeBurner0/blob/main/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 
  
- 
+
+
  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
@@ -19,7 +34,8 @@
 - 🌱 I’m currently Focusing on  **MERN Stack**
 - 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
 - ⚡ Fun fact **If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.**
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me  
+<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-anand-437187215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-anand-437187215/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ankit.anand786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit.anand786/" height="30" width="40" /></a>
@@ -92,16 +108,17 @@
  
 
 
- ## 📰 Thought Of The Day
- <div align="center">
-<div style="display: flex; align-items: flex-start;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="900px" >
-</div> </div>
- 
+## ⚡Enjoy jokes :)
+<p align="center">
+    <img align = "left" width="35%" src="https://readme-jokes.vercel.app/api"/>
+   <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
+</p>
+</br>
+
 
   <div align="center">
 <div style="display: flex; align-items: flex-start;">
-<h1>⚡ Thanks! For Visiting ⚡</h1>
+<h1><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Thanks! For Visiting <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"></h1>
 </div> </div>
 
 <p align="center"><img width="150%" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572">
