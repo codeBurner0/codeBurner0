@@ -1,48 +1,37 @@
 ![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/HeaderImage.gif)
  <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand </h1>
 <h3 align="center">
-  
-  
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=A+Passionate+Coder+From+India+✌;Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" />
-  
-  
  </h3>
  
- 
- 
- 
- 
- 
- 
- 
-<img align="right" alt="Coding" width="350px" src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/code.gif">
-
-
- 
-
-
- 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
-
-
-
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
+ <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+ <img align="right" alt="Coding" width="350px" src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeburner0&label=Profile%20views&color=0e75b6&style=flat" alt="codeburner0" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
  
-- 🌱 I’m currently Focusing on  **MERN Stack**
-- 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
-- ⚡ Fun fact **If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.**
-<h3 align="left">Connect with me  
+ <details>
+ <summary><h3>📊Click to Show </h3></summary>
+ <h1><img  src="https://metrics.lecoq.io/codeburner0?template=classic&isocalendar=1&languages=1&habits=1&leetcode=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&leetcode=false&leetcode.user=_AnkitAnand&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta"/><h2/>
+ </details>
+ 
+ 
+ <h3 align="left">Connect with me  
 <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></h3>
-<p align="left">
+
+
+ <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-anand-437187215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-anand-437187215/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ankit.anand786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit.anand786/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/codeburner0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/codeburner0" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/codeburner0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/codeburner0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/_ankitanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ankitanand/" height="30" width="40" /></a>
 </p>
+ 
+ 
+- 🌱 I’m currently Focusing on  **MERN Stack**
+- 💬 Ask me about **Java, GitHub, Git, Linux, Sql.**
+- ⚡ Fun fact **If I were a genius scientist Newton, I would most like to eat that apple rather than to find the science behind it.**
+
 
 
 
