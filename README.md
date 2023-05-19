@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif)
+![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/HeaderImage.gif)
  <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand </h1>
 <h3 align="center">
   
