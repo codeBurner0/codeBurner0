@@ -15,7 +15,7 @@
  
  
  
-<img align="right" alt="Coding" width="400px" src="https://github.com/codeBurner0/codeBurner0/blob/main/66833e07d6fb9eb5d724e47d0c814285.gif">
+<img align="right" alt="Coding" width="350px" src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/code.gif">
 
 
  
