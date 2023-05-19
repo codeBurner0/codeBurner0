@@ -79,10 +79,7 @@
   <img src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/CertificateImage.gif"  border="10x solid white">
     
 ## 🏆GitHub Trophies:
-  <div align="center">
-<div style="display: flex; align-items: flex-start;">
-<img src="https://github-profile-trophy.vercel.app/?username=codeburner0&theme=onedark">
-</div> </div>
+  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburner0&row=1&column=-1&theme=gruvbox" /></a> </div>
   
     
     
