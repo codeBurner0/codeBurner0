@@ -76,7 +76,7 @@
 </div>
   
 ## ⚡ Certificates:
-  <img src="https://github.com/codeBurner0/codeBurner0/blob/abb8fc5784b0a6234616ed899b30aaf20d28daea/Beige%20&%20Black%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif"  border="10x solid white">
+  <img src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/CertificateImage.gif"  border="10x solid white">
     
 ## 🏆GitHub Trophies:
   <div align="center">
