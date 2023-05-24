@@ -82,14 +82,14 @@
 
 
 ## 💹 Contribution Graph:
-![GitHub Activity Graph]()
+<div align="center">    
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" style="height: 300px"  />
 <img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/>
-
-
+</div>
+<!-- 
 <div align = "center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" >
-
- </div>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" > -->
+<!--  </div> -->
 <br>
 <div align = "center">
   
