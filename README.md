@@ -1,5 +1,8 @@
 ![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/HeaderImage.gif)
- <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand </h1>
+
+ <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand 
+</h1>
+ 
 <h3 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=A+Passionate+Coder+From+India+✌;Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" />
  </h3>
@@ -12,7 +15,10 @@
  <details>
  <summary><h3>📊Click to Show </h3></summary>
  <h1><img  src="https://metrics.lecoq.io/codeburner0?template=classic&isocalendar=1&languages=1&habits=1&leetcode=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&leetcode=false&leetcode.user=_AnkitAnand&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta"/><h2/>
-  ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark)
+  <h1><img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark" /></h1>
+  <p align="center">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeburner0&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
  </details>
  
  
@@ -67,11 +73,34 @@
   
 ## ⚡ Certificates:
   <img src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/CertificateImage.gif"  border="10x solid white">
+  
     
 ## 🏆GitHub Trophies:
   <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburner0&row=1&column=-1&theme=algolia" /></a> </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  
+  ```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
     
     
 ## 📊 Contribution Stats:
@@ -83,8 +112,9 @@
 
 ## 💹 Contribution Graph:
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" style="height: 300px"  />
-<img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" style="height: 250px"  />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/> -->
 </div>
 <!-- 
 <div align = "center">
