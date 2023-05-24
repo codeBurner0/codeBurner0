@@ -79,27 +79,27 @@
   <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburner0&row=1&column=-1&theme=algolia" /></a> </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-  ```diff
+  <pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
+@@       | |                                           @@                     <strong>I'm a Night 🦉</strong>
+@@      _L_L_                                          @@    <strong>🌞 Morning</strong>       219 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@    <strong>🌆 Daytime</strong>       100 commits      ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@    <strong>🌃 Evening</strong>       193 commits      █████████░░░░░░░░░░░░░░░░   37.46 % 
+@@   ❮/ \`-'/ \❯                                       @@    <strong>🌙 Night</strong>         357 commits      █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+@@     _/`U'\_                                         @@              
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |    @@              <strong>I'm Most Productive on Sunday 📅</strong>
+@@   \ |  ,  | /    '----------------------------'     @@    <strong>😌 Sunday</strong>       478 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.62 %
+@@    \|=====|/                                        @@    <strong>😊 Monday</strong>       227 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
+@@     |_.^._|                                         @@    <strong>😖 Tuesday</strong>      129 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+@@     | |"| |                                         @@    <strong>🥴 Wednesday</strong>    146 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+@@     ( ) ( )   Testing leads to failure              @@    <strong>😏 Thursday</strong>     098 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+@@     |_| |_|   and failure leads to understanding    @@    <strong>😝 Friday</strong>       112 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+@@ _.-' _j L_ '-._                                     @@    <strong>😜 Saturday</strong>     249 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.98 %
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+</pre>
 
     
     
