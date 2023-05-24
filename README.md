@@ -12,6 +12,7 @@
  <details>
  <summary><h3>📊Click to Show </h3></summary>
  <h1><img  src="https://metrics.lecoq.io/codeburner0?template=classic&isocalendar=1&languages=1&habits=1&leetcode=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers&people.shuffle=false&leetcode=false&leetcode.user=_AnkitAnand&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta"/><h2/>
+  ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark)
  </details>
  
  
@@ -68,7 +69,7 @@
   <img src="https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/CertificateImage.gif"  border="10x solid white">
     
 ## 🏆GitHub Trophies:
-  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburner0&row=1&column=-1&theme=gruvbox" /></a> </div>
+  <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburner0&row=1&column=-1&theme=algolia" /></a> </div>
   
   
     
@@ -81,6 +82,9 @@
 
 
 ## 💹 Contribution Graph:
+![GitHub Activity Graph]()
+<img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/>
+
 
 <div align = "center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" >
@@ -114,9 +118,9 @@
 
 <!----------------------------------{ reference links }--------------------------------->
 
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false
 [langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=dark&hide_border=false#gh-light-mode-only
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=react&hide_border=false#gh-light-mode-only
  
  <!----------------------------------{ contribution stats }--------------------------------->
 
