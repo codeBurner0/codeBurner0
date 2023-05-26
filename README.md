@@ -107,14 +107,9 @@
 
 
 ## 💹 Contribution Graph:
-    
-| _Github Stats_ |  _Streaks_   |
-| :------------: | :----------: |
-|   ![][contri]  | ![][contri2] |
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" width="850px" />
+<!--  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" width="850px" /> -->
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="850px" />
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
