@@ -107,11 +107,25 @@
 
 
 ## 💹 Contribution Graph:
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" style="height: 250px"  />
+    
+| _Github Stats_ |  _Streaks_   |
+| :------------: | :----------: |
+|   ![][contri]  | ![][contri2] |
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/> -->
+
+<div align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077" width="850px" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="850px" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+
+
+
+
+ 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=codeburner0&theme=dracula&hide_border=true"/> -->
+
 <!-- 
 <div align = "center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true" width="900px" > -->
@@ -147,9 +161,11 @@
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false
 [langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=react&hide_border=false#gh-light-mode-only
+
+
  
  <!----------------------------------{ contribution stats }--------------------------------->
-
-
+[contri]: http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=2077
+[contri2]: https://github-readme-activity-graph.vercel.app/graph?username=codeburner0&theme=react-dark&hide_border=false&area=true
  
 
