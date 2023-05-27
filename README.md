@@ -1,8 +1,6 @@
 ![MasterHead](https://github.com/codeBurner0/codeBurner0/blob/main/Essentials/HeaderImage.gif)
-
  <h1 align="center"> Hi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" style="font-family: 'forte';"> , I’m Ankit Anand 
 </h1>
- 
 <h3 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=A+Passionate+Coder+From+India+✌;Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" />
  </h3>
