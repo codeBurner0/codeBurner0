@@ -18,6 +18,7 @@
  </details>
  
  
+ 
  <h3 align="left">Connect with me  
 <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"></h3>
 
@@ -155,7 +156,7 @@
 
 [stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false
 [langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
-[streaks]:https://github-readme-streak-stats.herokuapp.com?user=codeburner0&theme=react&border_radius=9
+[streaks]:https://github-readme-streak-stats.herokuapp.com?user=codeburner0&theme=react&border_radius=8
 
 
  
