@@ -155,9 +155,9 @@
 
 <!----------------------------------{ reference links }--------------------------------->
 
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=false
-[langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
-[streaks]:https://github-readme-streak-stats.herokuapp.com?user=codeburner0&theme=react&border_radius=8
+[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=false
+[langs]:username=codeburner0&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+[streaks]:https://github-readme-streak-stats.herokuapp.com?user=codeburner0&theme=transparent&border_radius=8
 
 <!--  
 [chart]:http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=default
