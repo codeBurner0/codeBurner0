@@ -107,6 +107,11 @@
 |   ![][stats]   | ![][streaks] |
 
 
+| _Github Stats_ |  _Streaks_   |
+| :------------: | :----------: |
+|   ![][chart]   | ![][streaks] |
+
+
 ## 💹 Contribution Graph:
 
 <div align="center">
@@ -158,6 +163,8 @@
 [langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]:https://github-readme-streak-stats.herokuapp.com?user=codeburner0&theme=react&border_radius=8
 
+
+[chart]:http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeburner0&theme=github
 
  
  <!----------------------------------{ contribution stats }--------------------------------->
